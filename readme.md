@@ -1,4 +1,4 @@
-Procedure to Host a Static Web Page in AWS
+**Procedure to Host a Static Web Page in AWS**
 
 Create an S3 Bucket for file upload like index.html
 
