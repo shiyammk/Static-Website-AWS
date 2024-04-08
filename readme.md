@@ -12,7 +12,7 @@ Create an IAM Role for S3
 
 ![st2](https://github.com/shiyammk/Static-Website-AWS/assets/160907011/6c7de2b4-e503-40d4-833f-0f79b53cefbd)
 
-Add user data while creating an EC@ Instance
+Add user data while creating an EC2 Instance
 
 #! /bin/bash
 
