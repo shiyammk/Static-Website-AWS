@@ -15,9 +15,13 @@ Create an IAM Role for S3
 Add user data while creating an EC@ Instance
 
 #! /bin/bash
+
 sudo yum-y update
+
 sudo yum-y install httpd
+
 sudo systemctl start httpd
+
 sudo systemctl enable httpd
 
 connect instance with SSH or Web Here is the command to copy the file from S3 bucket to host a static web page
